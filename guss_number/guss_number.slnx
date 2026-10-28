@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="guss_number.vcxproj" Id="02568199-7b72-43bb-823b-2a4323635938" />
+</Solution>
